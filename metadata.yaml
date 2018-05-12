@@ -1,0 +1,30 @@
+_repo: The-Flamp-The-Ameliorator-and-The-Schoolboy-s-Apprentice_30445
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30445-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lucas, E. V. (Edward Verrall)
+    aliases:
+    - Lucas, E.V.
+    - Lucas, Edward Verrall
+    birthdate: 1868
+    deathdate: 1938
+    gutenberg_agent_id: '818'
+    url: http://www.gutenberg.org/2009/agents/818
+    wikipedia: http://en.wikipedia.org/wiki/E._V._Lucas
+description: ''
+gutenberg_issued: '2009-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30445'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+title: The Flamp, The Ameliorator, and The Schoolboy's Apprentice
+url: http://www.gutenberg.org/ebooks/30445
